@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://vestia.dev/">
-    <img alt="Vestia" src="https://raw.githubusercontent.com/vestia-dev/.github/refs/heads/main/profile/Light%20Mode%20-%20Full.png" width="300" />
+    <img alt="Vestia" src="https://raw.githubusercontent.com/vestia-dev/.github/refs/heads/main/profile/vestia-full-light-mode-color.png" width="300" />
   </a>
 </p>
 
